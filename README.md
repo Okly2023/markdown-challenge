@@ -23,6 +23,11 @@ _Here's a boy who is so interested in tech_
 #### my contribution
     you have to read and analyze to understand before doing something 
     and ask questions if you don't understand or if you are stuck
+##### A Funny Story
+    Thinking no one could hear me as I loaded a UPS tractor trailer, 
+    I began to whistle. 
+###### Summary
+     I was really getting into it when a coworker in the next trailer...
 
 
 
