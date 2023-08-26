@@ -14,9 +14,9 @@ _Here's a boy who is so interested in tech_
 | Pinneapple: | yes/**No**   |
 
 ### my Hobbies
--listening to Music
- -AfroBeats
- -OldSchool
+- listening to Music
+ - AfroBeats
+ - OldSchool
 
 
 
