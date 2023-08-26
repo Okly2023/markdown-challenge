@@ -18,8 +18,8 @@ _Here's a boy who is so interested in tech_
   - AfroBeats
   - OldSchool
 - Dancing
-  -Tap Dance
-  -Hip Hop 
+  - Tap Dance
+  - Hip Hop 
 
 
 
