@@ -15,8 +15,8 @@ _Here's a boy who is so interested in tech_
 
 ### my Hobbies
 - listening to Music
- - AfroBeats
- - OldSchool
+  - AfroBeats
+  - OldSchool
 
 
 
