@@ -34,7 +34,7 @@ _Here's a boy who is so interested in tech_
     I began to whistle. 
 ###### Summary
      I was really getting into it
-[<< previous](photo.png)|| Okly ||[next >>](#)
+[<< previous](https://github.com/dorianvde/markdown-challenge)|| Okly ||[next >>](https://github.com/AlexandreVDW/markdown-challenge)
 
 
 
