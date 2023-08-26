@@ -9,7 +9,7 @@ _Here's a boy who is so interested in tech_
 
 | Birthday:  | 14/october |
 | ------------- | ------------- |
-| Favolite color:  | green   |
+| Favorite color:  | green   |
 | Favorite Food: | potato   |
 | Pinneapple: | yes/**No**   |
 
