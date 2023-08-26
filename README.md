@@ -2,6 +2,6 @@
 
 _Here's a boy who is so interested in tech_
 
-! [time] (BeCode/logo.png)
+! [time] (logo.png)
 
  
