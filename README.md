@@ -2,6 +2,6 @@
 
 _Here's a boy who is so interested in tech_
 
-! [happy time] (/Becode/my photo.png)
+! [happy time] (my photo.png)
 
  
