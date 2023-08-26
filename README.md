@@ -1,7 +1,7 @@
 # Iradukunda Okly
 
 _Here's a boy who is so interested in tech_
-[next >>](Summary)
+
 ![happy time](photo.png "his picture")
 
  ## i am a happy Guy
@@ -34,7 +34,7 @@ _Here's a boy who is so interested in tech_
     I began to whistle. 
 ###### Summary
      I was really getting into it
-[<< previous](#)|| Okly ||[next >>](README.md)
+[<< previous](photo.png)|| Okly ||[next >>](#)
 
 
 
