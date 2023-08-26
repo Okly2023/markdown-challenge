@@ -1,5 +1,7 @@
 # Iradukunda Okly
 
-_He is a boy who is so interested in tech_
+_Here's a boy who is so interested in tech_
+
+![happy time](my photo.png "my pic")
 
  
