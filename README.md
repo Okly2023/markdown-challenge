@@ -11,7 +11,7 @@ _Here's a boy who is so interested in tech_
 | ------------- | ------------- |
 | Favolite color:  | green   |
 | Favorite Food: | potato   |
-| Pinneapple: | yes/|`#0969DA`|No|    |
+| Pinneapple: | yes/No    |
 
 
 
