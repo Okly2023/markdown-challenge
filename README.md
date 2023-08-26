@@ -2,6 +2,6 @@
 
 _Here's a boy who is so interested in tech_
 
-! [happy time] (logo.png)
+! [happy time] (/Users/DELL/Becode/logo.png)
 
  
