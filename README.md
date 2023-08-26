@@ -27,7 +27,7 @@ _Here's a boy who is so interested in tech_
     Thinking no one could hear me as I loaded a UPS tractor trailer, 
     I began to whistle. 
 ###### Summary
-     I was really getting into it when a coworker in the next trailer...
+     I was really getting into it
 
 
 
