@@ -17,7 +17,9 @@ _Here's a boy who is so interested in tech_
 - listening to Music
   - AfroBeats
   - OldSchool
-
+- Dancing
+  -Tap Dance
+  -Hip Hop 
 
 
 
