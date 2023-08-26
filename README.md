@@ -21,8 +21,8 @@ _Here's a boy who is so interested in tech_
   - Tap Dance
   - Hip Hop 
 ### my contribution
-    you have to read and to analyze to understand before doing something
-
+    you have to read and analyze to understand before doing something 
+    and ask questions if you don't understand or if you are stuck
 
 
 
